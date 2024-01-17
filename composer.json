@@ -1,5 +1,5 @@
 {
-  "name": "pendalff/phpqrcode",
+  "name": "liquidedge-app/phpqrcode",
   "type": "library",
   "description": "A PHP class to generate QR Code. Fork of t0k4rt/phpqrcode with composer support ",
   "keywords": ["php", "qrcode"],
