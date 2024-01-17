@@ -3,7 +3,7 @@
   "type": "library",
   "description": "A PHP class to generate QR Code. Fork of t0k4rt/phpqrcode with composer support ",
   "keywords": ["php", "qrcode"],
-  "homepage": "http://github.com/pendalff/phpqrcode",
+  "homepage": "https://github.com/ryno-liquidedge/phpqrcode",
   "license": ["LGPL"],
   "require": {
     "php": ">=5.3"
